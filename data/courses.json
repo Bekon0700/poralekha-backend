@@ -36,8 +36,8 @@
         "name": "Introduction to Data Science",
         "courseId": "200",
         "isPremium": false,
-        "fee": 15,
-        "discountPercentage": 13.8,
+        "fee": 18,
+        "discountPercentage": 7,
         "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
         "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
         "topics": [
@@ -52,8 +52,8 @@
         "name": "Intermediate Data Science",
         "courseId": "200",
         "isPremium": true,
-        "fee": 32,
-        "discountPercentage": 17.5,
+        "fee": 68,
+        "discountPercentage": 20.5,
         "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
         "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
         "topics": [
@@ -84,8 +84,8 @@
         "name": "Intermediate Machine Learning",
         "courseId": "300",
         "isPremium": true,
-        "fee": 32,
-        "discountPercentage": 17.5,
+        "fee": 95,
+        "discountPercentage": 23.5,
         "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
         "description": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.",
         "topics": [
@@ -100,8 +100,8 @@
         "name": "Intermediate Microprocessor",
         "courseId": "400",
         "isPremium": true,
-        "fee": 32,
-        "discountPercentage": 17.5,
+        "fee": 118,
+        "discountPercentage": 35,
         "thumbnail": "https://cdn.hswstatic.com/gif/microprocessor-1.jpg",
         "description": "A microprocessor is a computer processor where the data processing logic and control is included on a single integrated circuit, or a small number of integrated circuits. The microprocessor contains the arithmetic, logic, and control circuitry required to perform the functions of a computer's central processing unit.",
         "topics": [
