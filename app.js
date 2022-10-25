@@ -21,11 +21,11 @@ app.get('/api/top-courses', (req, res) => {
     })
 })
 
-app.get('/api/paid-courses', (req, res) => {
-    const paidCourses = courses.filter(el => el.isPremium === true)
+app.get('/api/premium-courses', (req, res) => {
+    const premiumCourses = courses.filter(el => el.isPremium === true)
     res.status(200).json({
         status: 'success',
-        paidCourses
+        premiumCourses
     })
 })
 
