@@ -9,6 +9,14 @@ const app = express()
 app.use(cors())
 app.use(morgan('dev'))
 
+app.get('/api/top-courses', (req, res) => {
+    const topCourse = courses.filter(el => el.rating >= 4.7)
+    res.status(200).json({
+        status: 'success',
+        topCourse
+    })
+})
+
 app.get('/api/paid-courses', (req, res) => {
     const paidCourses = courses.filter(el => el.isPremium === true)
     res.status(200).json({
