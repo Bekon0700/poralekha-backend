@@ -1,0 +1,30 @@
+[
+    {
+        "id": "100",
+        "name": "Python"
+    },
+    {
+        "id": "200",
+        "name": "Data Science"
+    },
+    {
+        "id": "300",
+        "name": "Machine learning"
+    },
+    {
+        "id": "400",
+        "name": "Microprocessor"
+    },
+    {
+        "id": "500",
+        "name": "Robotics"
+    },
+    {
+        "id": "600",
+        "name": "Statistics"
+    },
+    {
+        "id": "700",
+        "name": "Data Processing"
+    }
+]

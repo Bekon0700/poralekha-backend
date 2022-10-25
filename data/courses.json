@@ -1,0 +1,113 @@
+[
+    {
+        "id": "101",
+        "name": "Introduction to Python",
+        "courseId": "100",
+        "isPremium": false,
+        "fee": 15,
+        "discountPercentage": 13.8,
+        "thumbnail": "https://stackpython.co/media/course/python-programming-basic.png",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "topics": [
+            "Python Classes and Objects",
+            "Constructors in Python",
+            "Destructors in Python",
+            "Inheritance in Python"
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Intermediate Python",
+        "courseId": "100",
+        "isPremium": true,
+        "fee": 32,
+        "discountPercentage": 17.5,
+        "thumbnail": "https://i.ytimg.com/vi/HGOBQPFzWKo/maxresdefault.jpg",
+        "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "topics": [
+            "Types of inheritance Python",
+            "Encapsulation in Python",
+            "Polymorphism in Python",
+            "Class or Static Variables in Python"
+        ]
+    },
+    {
+        "id": "201",
+        "name": "Introduction to Data Science",
+        "courseId": "200",
+        "isPremium": false,
+        "fee": 15,
+        "discountPercentage": 13.8,
+        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
+        "topics": [
+            "Applied Statistics",
+            "Spatial Sciences Mathematics",
+            "Python and R",
+            "Database Management"
+        ]
+    },
+    {
+        "id": "202",
+        "name": "Intermediate Data Science",
+        "courseId": "200",
+        "isPremium": true,
+        "fee": 32,
+        "discountPercentage": 17.5,
+        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
+        "topics": [
+            "Computational Mathematics",
+            "Optimization Technologies",
+            "Deep Learning",
+            "Machine Learning"
+        ]
+    },
+    {
+        "id": "301",
+        "name": "Introduction to Machine Learning",
+        "courseId": "300",
+        "isPremium": false,
+        "fee": 15,
+        "discountPercentage": 13.8,
+        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "description": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",
+        "topics": [
+            "Artificial intelligence",
+            "Data science",
+            "Computer science",
+            "Mathematics"
+        ]
+    },
+    {
+        "id": "302",
+        "name": "Intermediate Machine Learning",
+        "courseId": "300",
+        "isPremium": true,
+        "fee": 32,
+        "discountPercentage": 17.5,
+        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "description": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.",
+        "topics": [
+            "Statistics",
+            "Data mining",
+            "Deep learning",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "id": "402",
+        "name": "Intermediate Microprocessor",
+        "courseId": "400",
+        "isPremium": true,
+        "fee": 32,
+        "discountPercentage": 17.5,
+        "thumbnail": "https://cdn.hswstatic.com/gif/microprocessor-1.jpg",
+        "description": "A microprocessor is a computer processor where the data processing logic and control is included on a single integrated circuit, or a small number of integrated circuits. The microprocessor contains the arithmetic, logic, and control circuitry required to perform the functions of a computer's central processing unit.",
+        "topics": [
+            "arithmetical and logical unit",
+            "control unit",
+            "register array"
+        ]
+    }
+]
