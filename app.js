@@ -9,6 +9,14 @@ const app = express()
 app.use(cors())
 app.use(morgan('dev'))
 
+app.get('/api/paid-courses', (req, res) => {
+    const paidCourses = courses.filter(el => el.isPremium === true)
+    res.status(200).json({
+        status: 'success',
+        paidCourses
+    })
+})
+
 app.get('/api/courses', (req, res) => {
     res.status(200).json({
         status: 'success',
@@ -24,6 +32,7 @@ app.get('/api/courses/:id', (req, res) => {
         course
     })
 })
+
 app.get('/api/categories', (req, res) => {
     res.status(200).json({
         status: 'success',
