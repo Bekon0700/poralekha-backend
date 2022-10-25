@@ -9,6 +9,10 @@ const app = express()
 app.use(cors())
 app.use(morgan('dev'))
 
+app.get('/', (req, res) => {
+    res.send('API is running')
+})
+
 app.get('/api/top-courses', (req, res) => {
     const topCourse = courses.filter(el => el.rating >= 4.7)
     res.status(200).json({
