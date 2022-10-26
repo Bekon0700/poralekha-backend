@@ -58,7 +58,7 @@
         "rating": 4.3,
         "fee": 68,
         "discountPercentage": 20.5,
-        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "thumbnail": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1221293664-1-1-1.jpg",
         "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
         "topics": [
             "Computational Mathematics",
@@ -75,7 +75,7 @@
         "rating": 4.9,
         "fee": 15,
         "discountPercentage": 13.8,
-        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "thumbnail": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
         "description": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.",
         "topics": [
             "Artificial intelligence",
@@ -92,7 +92,7 @@
         "rating": 4.8,
         "fee": 95,
         "discountPercentage": 23.5,
-        "thumbnail": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
+        "thumbnail": "https://miro.medium.com/max/1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg",
         "description": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.",
         "topics": [
             "Statistics",
